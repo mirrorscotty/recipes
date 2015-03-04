@@ -32,5 +32,5 @@ Directions
 10. Once the dough is ready, spread tomato puree over the top. Sprinkle this with Italian seasonings. 
 11. Spread one 4 cup package of shredded mozzarella cheese over the top. 
 12. Add toppings such as olives (one small can, drained), pepperoni (Hormel is gluten-free), and perhaps diced onions. 
-13. Bake at 400 F for 20 minutes, or until the cheese is melted and the crust edges are golden brown. 
+13. Bake at 400 &deg;F for 20 minutes, or until the cheese is melted and the crust edges are golden brown. 
 14. Remove from oven and let cool for 5 to 10 minutes. Cut and enjoy!
