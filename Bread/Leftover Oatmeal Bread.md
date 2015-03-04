@@ -5,6 +5,7 @@ An Alton Brown Recipe. Source: [The Food Network](http://www.foodnetwork.com/rec
 Metadata
 --------
 Total Yield: 1 Loaf of Bread
+
 Total Time: 2:45
 * Prep: 0:20
 * Inactive: 1:30
