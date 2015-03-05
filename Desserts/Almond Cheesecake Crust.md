@@ -1,5 +1,5 @@
-Cheesecake Crust
-================
+Almond Cheesecake Crust
+========================
 Source: [allrecipes.com](http://allrecipes.com/recipe/gluten-free-pumpkin-cheesecake/)
 
 Ingredients
