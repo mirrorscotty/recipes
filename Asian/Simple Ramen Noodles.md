@@ -1,7 +1,7 @@
 Simple Ramen Noodles
 ====================
 You will still need a broth to use.
-* [Shoyu Ramen](/recipes/Asian/Shoyu Ramen.md)
+* [Shoyu Ramen](Shoyu Ramen.md)
 
 These are not quite authentic, they are closer to egg noodles, but it still works well enough.
 
