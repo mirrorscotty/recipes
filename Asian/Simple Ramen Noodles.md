@@ -29,7 +29,7 @@ Directions
 7. Spread flour liberally on surface of a cutting board. Place stretched dough on top. Fold in half, twice, in same direction, spreading flour on the surface after each fold. Spread flour on top.
 8. Begin bringing a pot of water with some salt to a boil.
 9. Cut into thin noodles. Toy around with fingers to unfold, or toss around with more flour. Careful not to break them.
-10. Sprinkles noodles into the water, a few at a time.
+10. Sprinkle noodles into the water, a few at a time.
     * They will stick if you dump them in.
 11. Mix around with chopsticks. If the water is hot enough, they will start to float.
 12. Boil about 3-4 minutes, until they are just soft enough.
@@ -39,5 +39,4 @@ Directions
 Notes
 -----
 1. If you can find low and high gluten flours, mix 1 part low to 2 parts high. (so 1/4 cup of low to 1/2 cup of high for this recipe)
-
-. This dough doubles or quadruples well, though becomes difficult to knead and manage.
+2. This dough doubles or quadruples well, though becomes difficult to knead and manage.
