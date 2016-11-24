@@ -35,5 +35,12 @@ Notes
    * 100 grams arrowroot powder
    * 100 grams cornstarch
 2. Now let’s be honest here. If you want, you could roll out the dough immediately. Sure, the dough is better when you let it rest, because the flours hydrate more fully. But if you’re in a rush, you can roll out the dough immediately, if you work quickly.
-
+3. Approximate volumes for all-purpose flour mix (350 g)
+    * 7 tbsp brown rice flour
+    * 5.25 tbsp sorghum flour
+    * 1.75 tbsp potato flour
+    * 8.75 tbsp sweet rice flour
+    * 5.25 tbsp potato starch
+    * 4.25 tbsp arrowroot flour
+    * 4.25 tbsp cornstarch
 
